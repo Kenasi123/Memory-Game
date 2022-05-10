@@ -8,7 +8,7 @@ function App() {
     
       <header className="App-header" >
         <h1>Memory Game</h1>
-         <h4 style={{fontSize: "30px" , color: "#666666"}}>Match Cards To Win</h4>
+        <h4 style={{fontSize: "30px" , color: "#666666"}}>Match Cards To Win</h4>
         {/* <img src={logo} className="App-logo" alt="logo" /> */}  
       </header>
           <div>
